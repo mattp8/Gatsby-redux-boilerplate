@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="slide-6" transform="translate(-657.000000, -452.000000)">
+            <g id="Group-4" transform="translate(657.000000, 452.000000)">
+                <rect id="Rectangle-2" fill="#1E88E5" x="0" y="0" width="28" height="28" rx="4"></rect>
+                <g id="messenger" transform="translate(6.000000, 6.000000)" fill-rule="nonzero">
+                    <path d="M8,0 C3.582,0 0,3.316 0,7.407 C0,9.738 1.163,11.817 2.981,13.175 L2.981,16 L5.705,14.505 C6.432,14.706 7.202,14.815 8,14.815 C12.418,14.815 16,11.499 16,7.408 C16,3.316 12.418,0 8,0 Z" id="Shape" fill="#FFFFFF"></path>
+                    <polygon id="Shape" fill="#1E88E5" points="8.81697018 10.3529412 6.78625846 8.15003675 2.82352941 10.3529412 7.18203291 5.64705882 9.26259027 7.84996325 13.1764706 5.64705882"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

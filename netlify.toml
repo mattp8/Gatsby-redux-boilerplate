@@ -1,0 +1,5 @@
+[build]
+    functions = "functions/"
+    command = "cd functions && npm install && cd .. && netlify-lambda build functions && gatsby build"
+
+   
